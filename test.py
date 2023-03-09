@@ -3,11 +3,8 @@ import time
 import ttkthemes
 from tkinter import ttk,messagebox,filedialog
 import mysql.connector as conn
-import pymysql
-import pymongo
 import pandas
-from easygui import *
-import random
+
 
 
 def iexit():

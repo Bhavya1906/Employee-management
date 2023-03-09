@@ -1,0 +1,4 @@
+pillow
+mysql
+ttkthemes
+tkinter
